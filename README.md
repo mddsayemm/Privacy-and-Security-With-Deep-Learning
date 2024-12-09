@@ -17,7 +17,7 @@ Dataset Link : https://data.mendeley.com/datasets/6tm2d6sz7p/1
  Primarly a Feed Forward Neural Network (FNN )with Multilayer Perceptron (MLP) model is
  selected from github.
 
- Github LInk : https://github.com/shaheerAlam1/detecting-phishing-websites- using-deep-learning
+ Github LInk : https://github.com/shaheerAlam1/detecting-phishing-websites-using-deep-learning
 
  The original model was configured to allocate 75 percent
  of the data for training and 25 percent for validation. But the
