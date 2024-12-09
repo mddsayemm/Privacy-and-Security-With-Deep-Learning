@@ -6,7 +6,7 @@ Deep Learning Architecture: The model is based on a fully connected feedforward 
 High Performance: Achieved high accuracy, precision, and recall during validation and testing phases.
 
 # Dataset
-This dataset consists of 247950 instances, of which 128541 are from phishing URLs and 119409 are from legitimate URLs.   It encompasses 41 features and 1 target variable (0=legitimate,1=phishing), making it suitable for implementing machine learning algorithms to identify phishing attacks. 
+This dataset consists of 247950 instances, of which 128541 are from phishing URLs and 119409 are from legitimate URLs.   It encompasses 41 features and 1 target variable (0=legitimate,1=phishing).The  dataset consists  of tabular data making it suitable to feed into FNN model  to identify phishing attacks. 
 
 Due to its large size, the dataset could not be uploaded to this repository
 
