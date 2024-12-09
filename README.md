@@ -12,24 +12,33 @@ Due to its large size, the dataset could not be uploaded to this repository
 
 Dataset Link : https://data.mendeley.com/datasets/6tm2d6sz7p/1
 
-# Deep Learing Model
+# Deep Learning Model
 
  Primarly a Feed Forward Neural Network (FNN )with Multilayer Perceptron (MLP) model is
  selected from github.
 
- Github LInk : https://github.com/shaheerAlam1/detecting-phishing-
-websites- using-deep-learning
+ Github LInk : https://github.com/shaheerAlam1/detecting-phishing-websites- using-deep-learning
 
  The original model was configured to allocate 75 percent
  of the data for training and 25 percent for validation. But the
  model had no testing phase.
  
-Several updates have been made to enhance the model.
+ Several updates have been made to enhance the model.
  The data is splitted as 80 percent for training, 10 percent for
  validation, and 10 percent for testing.
+ 
  Additionally, I have used a different and a larger dataset
  compared to the original model for training, validation, and
  testing to evaluate the model’s performance.
+
+ # Result
+ 
+During testing the model achieved :
+
+Test Accuracy: 91.93%
+Test Precision: 93.51%
+Test Recall: 89.45%
+Test Loss: 0.196
 
 
 
