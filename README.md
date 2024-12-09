@@ -36,8 +36,11 @@ Dataset Link : https://data.mendeley.com/datasets/6tm2d6sz7p/1
 During testing the model achieved :
 
 Test Accuracy: 91.93%
+
 Test Precision: 93.51%
+
 Test Recall: 89.45%
+
 Test Loss: 0.196
 
 
